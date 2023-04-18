@@ -1,6 +1,6 @@
-###sample demo
+### sample demo
 
-##explored git concepts
+## explored git concepts
 
 -Branches
 -stash
